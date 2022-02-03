@@ -12,19 +12,22 @@ If you want to use this implementation or cite Imitate in your publication, plea
 ```
 Katharina Dost, Katerina Taskova, Patricia Riddle, and Jörg Wicker.
 "Your Best Guess When You Know Nothing: Identification and Mitigation of Selection Bias."
-In: 2020 IEEE International Conference on Data Mining (ICDM), IEEE, Forthcoming.
+In: 2020 IEEE International Conference on Data Mining (ICDM), pp. 996-1001, IEEE, 2020, ISSN: 2374-8486.
 ```
 
 Bibtex:
 ```
-@inproceedings{dost2020your,
-title = {Your Best Guess When You Know Nothing: Identification and Mitigation of Selection Bias},
-author = {Katharina Dost and Katerina Taskova and Pat Riddle and Jörg Wicker},
-year = {2020},
-date = {2020-11-17},
+@INPROCEEDINGS {Dost2020,
+author = {K. Dost and K. Taskova and P. Riddle and J. Wicker},
 booktitle = {2020 IEEE International Conference on Data Mining (ICDM)},
-publisher = {IEEE},
-pubstate = {forthcoming}
+title = {Your Best Guess When You Know Nothing: Identification and Mitigation of Selection Bias},
+year = {2020},
+pages = {996-1001},
+doi = {10.1109/ICDM50108.2020.00115},
+url = {https://doi.ieeecomputersociety.org/10.1109/ICDM50108.2020.00115},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {nov}
 }
 ```
 

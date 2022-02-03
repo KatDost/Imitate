@@ -37,7 +37,7 @@ Examples on how to use IMITATE (as well as all experiments and tests mentioned i
 The implementation is structured as follows:
 - [IMITATE.py](IMITATE.py): Core algorithm incl. point generation (Paper Alg. 1,2; Sec. IV.D)
 - [Transformations.py](Transformations.py): Outlier removal and transformation (Sec. IV.A)
-- [DensityEstimators.py](DensityEstimators.py): KDE and Hhistograms (Sec. IV.B)
+- [DensityEstimators.py](DensityEstimators.py): KDE and Histograms (Sec. IV.B)
 - [Distributions.py](Distributions.py): Distribution fitting (Sec. IV.C)
 - [Confidence.py](Confidence.py): Confidence estimation (Sec. IV.E)
 
